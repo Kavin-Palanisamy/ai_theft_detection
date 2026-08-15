@@ -1,6 +1,5 @@
 📌 Overview
-
-This project is an AI-powered theft detection system that uses real-time object detection to identify human presence and instantly send alerts via Telegram.
+  This project is an AI-powered theft detection system that uses real-time object detection to identify human presence and instantly send alerts via Telegram.
 
 It leverages computer vision with YOLOv8 and integrates with the Telegram Bot API to notify users with messages and images.
 

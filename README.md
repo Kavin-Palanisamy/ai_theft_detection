@@ -50,7 +50,7 @@ CHAT_ID = "YOUR_CHAT_ID"
 3️⃣ Run the Project
 python main.py
 
-Press Q to exit.
+Press Q to exit
 
 📸 Output
 Displays live webcam feed with bounding boxes
